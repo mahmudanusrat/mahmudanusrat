@@ -7,7 +7,7 @@ Skills: HTML / CSS/ PHP/ BOOTSTRAP
 + 👯 I’m looking to collaborate on GitHub
 + 💬 Ask me about Web development
 + 📫 How to reach me:
-+ [GitHub](https://github.com/mahmudanusrat) [Facebook](https://www.facebook.com/mahmuda.nusraat1) [Linkedin]([https://www.facebook.com/mahmuda.nusraat1) [Twitter](https://twitter.com/MahmudaNusrat)
++ [GitHub](https://github.com/mahmudanusrat) [Facebook](https://www.facebook.com/mahmuda.nusraat1) [Linkedin](https://www.facebook.com/mahmuda.nusraat1) [Twitter](https://twitter.com/MahmudaNusrat)
 
 
 
