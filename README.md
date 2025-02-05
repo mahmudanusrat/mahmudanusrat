@@ -63,23 +63,3 @@ I am always open to collaborations and love working on innovative projects that 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudanusrat)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MahmudaNusrat)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mahmuda.nusraat1)  
-
----
-
-## 📌 Pinned Repositories  
-
-### **1️⃣ Featured Project**  
-🔹 **Overview:** A short description of the project  
-🔹 **Live Demo:** [View Live](#)  
-🔹 **Tech Stack:** HTML, CSS, JavaScript, React  
-🔹 **GitHub Repository:** [View Repo](#)  
-
-### **2️⃣ Featured Project**  
-🔹 **Overview:** A short description of the project  
-🔹 **Live Demo:** [View Live](#)  
-🔹 **Tech Stack:** HTML, CSS, Bootstrap, PHP  
-🔹 **GitHub Repository:** [View Repo](#)  
-
----
-
-### ✨ Let's build something amazing together! 🚀  
