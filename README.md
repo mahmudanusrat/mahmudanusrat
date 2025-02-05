@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mahmuda Nusrat  
 
-## 🚀 Web Developer | Passionate Coder  
+## 🚀 Web Developer 
 
 📍 **Location:** Dhaka, Bangladesh  
 📧 **Email:** mnusrat454@gmail.com  
